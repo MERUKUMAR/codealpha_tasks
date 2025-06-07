@@ -1,6 +1,6 @@
 # codealpha_tasks
 
-# NOTE:
+**NOTE:**
 ## Relevant Files For Particular Tasks
 ## TASK 1: WEB SCRAPER
 i)web scraping.py
