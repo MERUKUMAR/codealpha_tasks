@@ -17,7 +17,7 @@ i)Data Visualization.ipynb
  iii)tudent_habits_performance.csv
  iv)dashboard.pbix
 
----------------------------**TASK 1: WEB SCRAPER**-------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------**TASK 1: WEB SCRAPER**-----------------------------------------------------------------------------------
 #  BBC News Web Scraper
 
 This project is a simple web scraper built using **Python** and **BeautifulSoup** to extract the latest news headlines from the [BBC News](https://www.bbc.com/news) website. It collects the titles and links of top articles and saves them into a CSV file for further analysis or automation tasks.
@@ -138,9 +138,10 @@ Customer & Segment Insights
 Trend & Forecast Preparation
 Inventory & Category Management
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
---------------------------------------------**TASK 3: DATA VISUALIZATION**--------------------------------
+
+--------------------------------------------------------------**TASK 3: DATA VISUALIZATION**----------------------------------------------------------------------
 
 #  Student Habits & Academic Performance – Data Visualization Project
 
@@ -202,3 +203,10 @@ Transform raw student data into compelling visuals and data stories that support
 ##  Next Steps
 - Extend the project with predictive modeling (e.g., regression)
 - Share insights on LinkedIn, GitHub, or a personal portfolio site
+
+## 🛠️ Setup Instructions
+
+### 1. Clone this repository or download the files
+git clone https://github.com/MERUKUMAR/codealpha_tasks.git
+cd codealpha_tasks
+
