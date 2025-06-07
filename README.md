@@ -1,21 +1,21 @@
 # codealpha_tasks
 
-# **NOTE:** 
+# NOTE:
 ## Relevant Files For Particular Tasks
-## **TASK 1: WEB SCRAPER**
+## TASK 1: WEB SCRAPER
 i)web scraping.py
-ii)bbc_news_headlines.csv
+ ii)bbc_news_headlines.csv
 
 ## TASK 2: Exploratory Data Analysis (EDA)
 i)EDA.ipynb
-ii)Superstore.csv
-iii)Superstore_EDA_Report.pdf
+ ii)Superstore.csv
+ iii)Superstore_EDA_Report.pdf
 
 ## TASK 3: DATA VISUALIZATION
 i)Data Visualization.ipynb
-ii)data_visualization_portfolio(2).pdf
-iii)tudent_habits_performance.csv
-iv)dashboard.pbix
+ ii)data_visualization_portfolio(2).pdf
+ iii)tudent_habits_performance.csv
+ iv)dashboard.pbix
 
 ---------------------------**TASK 1: WEB SCRAPER**----------------------------------------------
 #  BBC News Web Scraper
