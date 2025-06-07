@@ -34,5 +34,5 @@ for tag in headline_tags:
 df = pd.DataFrame(news_data).drop_duplicates().reset_index(drop=True)
 df.to_csv("bbc_news_headlines.csv", index=False)
 
-print("✅ Scraping successful! Sample data:")
+print(" Scraping successful! Sample data:")
 print(df)
