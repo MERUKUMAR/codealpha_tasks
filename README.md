@@ -120,3 +120,68 @@ Business Performance Analysis
 Customer & Segment Insights
 Trend & Forecast Preparation
 Inventory & Category Management
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+--------------------------------------------# TASK 3: DATA VISUALIZATION--------------------------------
+
+#  Student Habits & Academic Performance – Data Visualization Project
+
+This project explores how student lifestyle habits impact academic performance using data visualization techniques. It was developed as part of **Task 3** for a Data Analytics Internship.
+
+---
+
+##  Objective
+
+Transform raw student data into compelling visuals and data stories that support decision-making and provide insights into effective academic behaviors.
+
+---
+
+##  Dataset Overview
+
+- **Source**: Provided by internship program
+- **Format**: CSV / Excel
+- **Fields**:
+  - `study_hours_per_day`
+  - `sleep_hours`
+  - `diet_quality`
+  - `exercise_frequency`
+  - `mental_health_rating`
+  - `part_time_job`
+  - `exam_score`
+  - `gender`, etc.
+
+---
+
+##  Tools Used
+
+- **Python**: Data cleaning and visualizations
+  - Libraries: `Pandas`, `Matplotlib`, `Seaborn`
+- **Tableau / Power BI**: Dashboard creation
+- **PDF**: For portfolio 
+
+---
+
+##  Visualizations Created
+
+- Histogram: Study hours and exam score distributions
+- Correlation Heatmap
+- Scatter Plot: Study Hours vs Exam Score
+- Box Plot: Exam Score by Part-Time Job
+- Bar Chart: Average Score by Diet Quality
+- Pairplot: Multivariate relationships
+
+---
+
+
+##  Insights
+
+- More study hours = higher exam scores
+- No part-time job and healthy diet = better academic performance
+- Balanced sleep, exercise, and study leads to optimal results
+
+---
+
+##  Next Steps
+- Extend the project with predictive modeling (e.g., regression)
+- Share insights on LinkedIn, GitHub, or a personal portfolio site
