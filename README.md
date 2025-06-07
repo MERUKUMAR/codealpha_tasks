@@ -29,22 +29,22 @@ This project is a simple web scraper built using **Python** and **BeautifulSoup*
 ## 🛠️ Setup Instructions
 
 ### 1. Clone this repository or download the files
-git clone https://github.com/your-username/bbc-news-scraper.git
-cd bbc-news-scraper
+git clone https://github.com/MERUKUMAR/codealpha_tasks.git
+cd codealpha_tasks
 
-**Install Dependencies**
+**Install Dependencies**:
 pip install requests beautifulsoup4 pandas
 
 **OUTPUT**
 bbc_news_headlines.csv
 
-**Use Cases**
+**Use Cases**:
 Create a custom news dashboard
 Perform sentiment analysis on latest headlines
 Track changes in media coverage over time
 Learn and practice web scraping for real-world websites
 
- **Disclaimer**
+ **Disclaimer**:
 This scraper is built for educational purposes only. Please respect BBC's Terms of Service and avoid overloading their servers. Avoid frequent scraping or automation without permission.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
