@@ -17,7 +17,7 @@ i)Data Visualization.ipynb
  iii)tudent_habits_performance.csv
  iv)dashboard.pbix
 
----------------------------**TASK 1: WEB SCRAPER**----------------------------------------------
+---------------------------**TASK 1: WEB SCRAPER**-------------------------------------------------------------------------------------------------------------
 #  BBC News Web Scraper
 
 This project is a simple web scraper built using **Python** and **BeautifulSoup** to extract the latest news headlines from the [BBC News](https://www.bbc.com/news) website. It collects the titles and links of top articles and saves them into a CSV file for further analysis or automation tasks.
@@ -64,7 +64,7 @@ Learn and practice web scraping for real-world websites
  **Disclaimer**:
 This scraper is built for educational purposes only. Please respect BBC's Terms of Service and avoid overloading their servers. Avoid frequent scraping or automation without permission.
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 -------------------------------------------------------------------**TASK 2: Exploratory Data Analysis (EDA)**----------------------------------------------------
 
